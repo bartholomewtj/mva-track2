@@ -1,0 +1,39 @@
+{
+  "n_genes": 16,
+  "n_rows": 300,
+  "n_approved_names": 27,
+  "by_class": {
+    "worsen": 75,
+    "compensate": 172,
+    "trap": 53
+  },
+  "approved_names": [
+    "BELANTAMAB MAFODOTIN",
+    "BRENTUXIMAB VEDOTIN",
+    "CABAZITAXEL",
+    "COLCHICINE",
+    "DOCETAXEL",
+    "DOCETAXEL ANHYDROUS",
+    "ENFORTUMAB VEDOTIN",
+    "ERIBULIN",
+    "ERIBULIN MESYLATE",
+    "GLEMBATUMUMAB VEDOTIN",
+    "IXABEPILONE",
+    "MIRVETUXIMAB SORAVTANSINE",
+    "PACLITAXEL",
+    "PACLITAXEL POLIGLUMEX",
+    "PERHEXILINE",
+    "POLATUZUMAB VEDOTIN",
+    "RIDAFOROLIMUS",
+    "TISOTUMAB VEDOTIN",
+    "TRASTUZUMAB EMTANSINE",
+    "VINBLASTINE",
+    "VINBLASTINE SULFATE",
+    "VINCRISTINE",
+    "VINCRISTINE SULFATE",
+    "VINFLUNINE",
+    "VINFLUNINE DITARTRATE",
+    "VINORELBINE",
+    "VINORELBINE TARTRATE"
+  ]
+}

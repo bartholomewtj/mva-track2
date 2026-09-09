@@ -1,0 +1,301 @@
+source	gene	ensembl_id	drug	chembl_id	moa	drug_type	phase	max_phase	approved	withdrawn	black_box	disease	class
+open_targets	AURKB	ENSG00000178999	IBCASERTIB	CHEMBL5095033		Small molecule	PHASE_3	PHASE_3	False	False	False	small cell lung carcinoma; cancer; ovarian cancer; ovarian carcinoma; pancreatic ductal adenocarcinoma	worsen
+open_targets	AURKB	ENSG00000178999	BARASERTIB	CHEMBL415049		Small molecule	PHASE_2_3	PHASE_2_3	False	False	False	acute myeloid leukemia; small cell lung carcinoma; small cell lung carcinoma; diffuse large B-cell lymphoma; solid tumour/cancer	worsen
+open_targets	AURKB	ENSG00000178999	CYC-116	CHEMBL482967		Small molecule	PHASE_1	PHASE_1	False	False	False	solid tumour/cancer; neoplasm	worsen
+open_targets	AURKB	ENSG00000178999	TTP-607	CHEMBL3545327		Unknown	PHASE_1	PHASE_1	False	False	False	solid tumor; lymphoma	worsen
+open_targets	AURKB	ENSG00000178999	SNS-314	CHEMBL482767		Small molecule	PHASE_1	PHASE_1	False	False	False	solid tumour/cancer; solid tumor	worsen
+open_targets	AURKB	ENSG00000178999	BI-811283	CHEMBL3545395		Unknown	PHASE_2	PHASE_2	False	False	False	acute myeloid leukemia by FAB classification; solid tumors	worsen
+open_targets	AURKB	ENSG00000178999	ENMD-2076	CHEMBL482968		Small molecule	PHASE_2	PHASE_2	False	False	False	acute myeloid leukemia by FAB classification; fibrolamellar liver cancer; triple-negative breast carcinoma; ovarian cancer; triple-negative breast carcinoma	worsen
+open_targets	AURKB	ENSG00000178999	TAK-901	CHEMBL3544932		Small molecule	PHASE_1	PHASE_1	False	False	False	haematological malignancy; hematopoietic and lymphoid cell neoplasm; solid tumors; lymphoma	worsen
+open_targets	AURKB	ENSG00000178999	KW-2449	CHEMBL1908397		Small molecule	PHASE_1	PHASE_1	False	False	False	acute myeloid leukemia by FAB classification; acute myeloid leukemia; myelodysplastic syndrome; acute lymphoblastic leukemia; chronic myelogenous leukemia, BCR-ABL1 positive	worsen
+open_targets	AURKB	ENSG00000178999	AMG-900	CHEMBL2140408		Small molecule	PHASE_1	PHASE_1	False	False	False	solid tumour/cancer; ovarian cancer; triple-negative breast carcinoma; prostate cancer; acute myeloid leukemia	worsen
+open_targets	AURKB	ENSG00000178999	MK-6592	CHEMBL3545378		Small molecule	PHASE_1	PHASE_1	False	False	False	solid tumour/cancer; advanced solid tumor	worsen
+open_targets	AURKB	ENSG00000178999	GSK-1070916	CHEMBL1090479		Small molecule	PHASE_1	PHASE_1	False	False	False	advanced solid tumour; solid tumour/cancer; advanced solid tumors	worsen
+open_targets	AURKB	ENSG00000178999	PF-03814735	CHEMBL4289017		Small molecule	PHASE_1	PHASE_1	False	False	False	advanced solid tumour; advanced solid tumors	worsen
+open_targets	AURKB	ENSG00000178999	ILORASERTIB	CHEMBL1980297		Small molecule	PHASE_2	PHASE_2	False	False	False	haematological malignancy; solid cancers; juvenile myelomonocytic leukemia; acute myeloid leukemia; myelodysplastic syndrome	worsen
+open_targets	AURKB	ENSG00000178999	CENISERTIB	CHEMBL1967878		Small molecule	PHASE_1	PHASE_1	False	False	False	haematological malignancy; neoplasm; hematopoietic and lymphoid cell neoplasm; lung carcinoma; colorectal cancer	worsen
+open_targets	AURKB	ENSG00000178999	TOZASERTIB	CHEMBL572878		Small molecule	PHASE_2	PHASE_2	False	False	False	solid tumour/cancer; non-small cell lung carcinoma; chronic myelogenous leukemia, BCR-ABL1 positive; acute lymphoblastic leukemia; solid tumors	worsen
+open_targets	AURKB	ENSG00000178999	AT-9283	CHEMBL495727		Small molecule	PHASE_3	PHASE_3	False	False	False	solid tumour/cancer; plasma cell myeloma; acute lymphoblastic leukemia; myelofibrosis with myeloid metaplasia; myelodysplastic syndrome	worsen
+open_targets	AURKB	ENSG00000178999	DANUSERTIB	CHEMBL402548		Small molecule	PHASE_2	PHASE_2	False	False	False	prostate cancer; chronic myelogenous leukemia, BCR-ABL1 positive; plasma cell myeloma	worsen
+chembl	AURKB	ENSG00000178999	CHEMBL5095033	CHEMBL5095033	Serine/threonine-protein kinase Aurora-B inhibitor	INHIBITOR			False	False	False		worsen
+chembl	AURKB	ENSG00000178999	CHEMBL1090479	CHEMBL1090479	Serine/threonine-protein kinase Aurora-B inhibitor	INHIBITOR			False	False	False		worsen
+chembl	AURKB	ENSG00000178999	CHEMBL1908397	CHEMBL1908397	Serine/threonine-protein kinase Aurora-B inhibitor	INHIBITOR			False	False	False		worsen
+chembl	AURKB	ENSG00000178999	CHEMBL4289017	CHEMBL4289017	Serine/threonine-protein kinase Aurora-B inhibitor	INHIBITOR			False	False	False		worsen
+chembl	AURKB	ENSG00000178999	CHEMBL3544932	CHEMBL3544932	Serine/threonine-protein kinase Aurora-B inhibitor	INHIBITOR			False	False	False		worsen
+chembl	AURKB	ENSG00000178999	CHEMBL495727	CHEMBL495727	Serine/threonine-protein kinase Aurora-B inhibitor	INHIBITOR			False	False	False		worsen
+chembl	AURKB	ENSG00000178999	CHEMBL3545395	CHEMBL3545395	Serine/threonine-protein kinase Aurora-B inhibitor	INHIBITOR			False	False	False		worsen
+chembl	AURKB	ENSG00000178999	CHEMBL482968	CHEMBL482968	Serine/threonine-protein kinase Aurora-B inhibitor	INHIBITOR			False	False	False		worsen
+chembl	AURKB	ENSG00000178999	CHEMBL415049	CHEMBL415049	Serine/threonine-protein kinase Aurora-B inhibitor	INHIBITOR			False	False	False		worsen
+chembl	AURKB	ENSG00000178999	CHEMBL1980297	CHEMBL1980297	Serine/threonine-protein kinase Aurora inhibitor	INHIBITOR			False	False	False		worsen
+chembl	AURKB	ENSG00000178999	CHEMBL2140408	CHEMBL2140408	Serine/threonine-protein kinase Aurora inhibitor	INHIBITOR			False	False	False		worsen
+chembl	AURKB	ENSG00000178999	CHEMBL1967878	CHEMBL1967878	Serine/threonine-protein kinase Aurora inhibitor	INHIBITOR			False	False	False		worsen
+chembl	AURKB	ENSG00000178999	CHEMBL482967	CHEMBL482967	Serine/threonine-protein kinase Aurora inhibitor	INHIBITOR			False	False	False		worsen
+chembl	AURKB	ENSG00000178999	CHEMBL3545378	CHEMBL3545378	Serine/threonine-protein kinase Aurora inhibitor	INHIBITOR			False	False	False		worsen
+chembl	AURKB	ENSG00000178999	CHEMBL482767	CHEMBL482767	Serine/threonine-protein kinase Aurora inhibitor	INHIBITOR			False	False	False		worsen
+chembl	AURKB	ENSG00000178999	CHEMBL3545327	CHEMBL3545327	Serine/threonine-protein kinase Aurora inhibitor	INHIBITOR			False	False	False		worsen
+chembl	AURKB	ENSG00000178999	CHEMBL572878	CHEMBL572878	Serine/threonine-protein kinase Aurora inhibitor	INHIBITOR			False	False	False		worsen
+chembl	AURKB	ENSG00000178999	CHEMBL402548	CHEMBL402548	Serine/threonine-protein kinase Aurora inhibitor	INHIBITOR			False	False	False		worsen
+open_targets	PLK1	ENSG00000166851	CAFUSERTIB	CHEMBL3545354		Unknown	PHASE_1	PHASE_1	False	False	False	acute myeloid leukemia by FAB classification; solid tumor	worsen
+open_targets	PLK1	ENSG00000166851	ONVANSERTIB	CHEMBL1738758		Small molecule	PHASE_2	PHASE_2	False	False	False	acute myeloid leukemia by FAB classification; prostate cancer; pancreatic ductal adenocarcinoma; small cell lung carcinoma; colorectal cancer	worsen
+open_targets	PLK1	ENSG00000166851	BI-2536	CHEMBL513909		Small molecule	PHASE_2	PHASE_2	False	False	False	acute myeloid leukemia by FAB classification; non-small cell lung carcinoma; small cell lung carcinoma; breast cancer; soft tissue sarcoma	worsen
+open_targets	PLK1	ENSG00000166851	MK-1496	CHEMBL5314387		Small molecule	PHASE_1	PHASE_1	False	False	False	solid tumour/cancer; solid tumor	worsen
+open_targets	PLK1	ENSG00000166851	GSK-461364	CHEMBL1908394		Small molecule	PHASE_1	PHASE_1	False	False	False	non-Hodgkin lymphoma; solid tumour/cancer; solid tumor; non-Hodgkin lymphoma	worsen
+open_targets	PLK1	ENSG00000166851	TAK-960	CHEMBL2392545		Small molecule	PHASE_1	PHASE_1	False	False	False	solid tumour/cancer; nonhematologic malignancy	worsen
+open_targets	PLK1	ENSG00000166851	HMN-214	CHEMBL3991927		Small molecule	PHASE_1	PHASE_1	False	False	False	malignant pancreatic neoplasm; prostate cancer	worsen
+open_targets	PLK1	ENSG00000166851	VOLASERTIB	CHEMBL1233528		Small molecule	PHASE_3	PHASE_3	False	False	False	acute myeloid leukemia by FAB classification; acute myeloid leukemia; non-small cell lung carcinoma; urothelial cancer; ovarian cancer	worsen
+chembl	PLK1	ENSG00000166851	CHEMBL1908394	CHEMBL1908394	Serine/threonine-protein kinase PLK1 inhibitor	INHIBITOR			False	False	False		worsen
+chembl	PLK1	ENSG00000166851	CHEMBL3991927	CHEMBL3991927	Serine/threonine-protein kinase PLK1 inhibitor	INHIBITOR			False	False	False		worsen
+chembl	PLK1	ENSG00000166851	CHEMBL5314387	CHEMBL5314387	Serine/threonine-protein kinase PLK1 inhibitor	INHIBITOR			False	False	False		worsen
+chembl	PLK1	ENSG00000166851	CHEMBL1738758	CHEMBL1738758	Serine/threonine-protein kinase PLK1 inhibitor	INHIBITOR			False	False	False		worsen
+chembl	PLK1	ENSG00000166851	CHEMBL2392545	CHEMBL2392545	Serine/threonine-protein kinase PLK1 inhibitor	INHIBITOR			False	False	False		worsen
+chembl	PLK1	ENSG00000166851	CHEMBL3545354	CHEMBL3545354	Serine/threonine-protein kinase PLK1 inhibitor	INHIBITOR			False	False	False		worsen
+chembl	PLK1	ENSG00000166851	CHEMBL513909	CHEMBL513909	Serine/threonine-protein kinase PLK1 inhibitor	INHIBITOR			False	False	False		worsen
+chembl	PLK1	ENSG00000166851	CHEMBL1233528	CHEMBL1233528	Serine/threonine-protein kinase PLK1 inhibitor	INHIBITOR			False	False	False		worsen
+open_targets	TTK	ENSG00000112742	BAY-1161909	CHEMBL4303241		Small molecule	PHASE_1	PHASE_1	False	False	False	solid tumour/cancer; cancer	worsen
+open_targets	TTK	ENSG00000112742	BAY-1217389	CHEMBL4456085		Small molecule	PHASE_1	PHASE_1	False	False	False	cancer	worsen
+chembl	TTK	ENSG00000112742	CHEMBL4303241	CHEMBL4303241	Dual specificity protein kinase TTK inhibitor	INHIBITOR			False	False	False		worsen
+chembl	TTK	ENSG00000112742	CHEMBL4456085	CHEMBL4456085	Dual specificity protein kinase TTK inhibitor	INHIBITOR			False	False	False		worsen
+open_targets	TUBB	ENSG00000196230	VANDORTUZUMAB VEDOTIN	CHEMBL3833306		Antibody drug conjugate	PHASE_1	PHASE_1	False	False	False	prostate cancer	compensate
+open_targets	TUBB	ENSG00000196230	VINCRISTINE SULFATE	CHEMBL501867		Small molecule	APPROVAL	APPROVAL	True	False	False	plasma cell myeloma; Kaposi's sarcoma; Hodgkins lymphoma; Philadelphia chromosome-positive acute lymphoblastic leukemia; acute lymphoblastic leukemia	compensate
+open_targets	TUBB	ENSG00000196230	LADIRATUZUMAB VEDOTIN	CHEMBL4298101		Antibody drug conjugate	PHASE_2	PHASE_2	False	False	False	breast cancer; non-small cell lung carcinoma; small cell lung carcinoma; castration-resistant prostate cancer; gastroesophageal junction adenocarcinoma	compensate
+open_targets	TUBB	ENSG00000196230	PATUPILONE	CHEMBL94657		Small molecule	PHASE_3	PHASE_3	False	False	False	solid tumour/cancer; primary fallopian cancer; malignant epithelial tumor of ovary; ovarian carcinoma; primary peritoneal carcinoma	compensate
+open_targets	TUBB	ENSG00000196230	CABAZITAXEL	CHEMBL1201748		Small molecule	APPROVAL	APPROVAL	True	False	False	prostate cancer; breast cancer; prostate neoplasm; neoplasm; prostate cancer	compensate
+open_targets	TUBB	ENSG00000196230	DEPATUXIZUMAB MAFODOTIN	CHEMBL3707277		Antibody drug conjugate	PHASE_3	PHASE_3	False	False	False	glioblastoma; glioblastoma; recurrent glioblastoma; malignant glioma; brain cancer	compensate
+open_targets	TUBB	ENSG00000196230	SAR-566658	CHEMBL2109635		Unknown	PHASE_2	PHASE_2	False	False	False	triple-negative breast carcinoma; solid tumour/cancer; breast cancer; solid tumors	compensate
+open_targets	TUBB	ENSG00000196230	PACLITAXEL POLIGLUMEX	CHEMBL2108628		Small molecule	APPROVAL	APPROVAL	True	False	False	neoplasm; non-small cell lung carcinoma; ovarian carcinoma; malignant epithelial tumor of ovary; fallopian tube cancer	compensate
+open_targets	TUBB	ENSG00000196230	EPOTHILONE D	CHEMBL96172		Small molecule	PHASE_2	PHASE_2	False	False	False	breast cancer; colorectal cancer; non-small cell lung carcinoma; prostate cancer; solid tumor	compensate
+open_targets	TUBB	ENSG00000196230	COLCHICINE	CHEMBL107		Small molecule	APPROVAL	APPROVAL	True	False	False	familial Mediterranean fever; gout; acute gout flare; acute gouty arthritis; myocardial infarction	compensate
+open_targets	TUBB	ENSG00000196230	ANVATABART OPADOTIN	CHEMBL4297892		Antibody drug conjugate	PHASE_2_3	PHASE_2_3	False	False	False	breast cancer; brain metastases; solid tumor cancer; HER2 positive breast carcinoma; gastric cancer	compensate
+open_targets	TUBB	ENSG00000196230	MLN-2704	CHEMBL2109556		Unknown	PHASE_1_2	PHASE_1_2	False	False	False	prostate cancer	compensate
+open_targets	TUBB	ENSG00000196230	RG-7841	CHEMBL4297935		Unknown	PHASE_1	PHASE_1	False	False	False	solid tumour/cancer; solid tumor	compensate
+open_targets	TUBB	ENSG00000196230	RG-7600	CHEMBL2109281		Unknown	PHASE_1	PHASE_1	False	False	False	ovarian cancer; malignant pancreatic neoplasm	compensate
+open_targets	TUBB	ENSG00000196230	ERIBULIN MESYLATE	CHEMBL1683544		Small molecule	APPROVAL	APPROVAL	True	False	False	breast cancer; breast carcinoma; liposarcoma; leiomyosarcoma; triple-negative breast carcinoma	compensate
+open_targets	TUBB	ENSG00000196230	DISITAMAB VEDOTIN	CHEMBL5095273		Antibody drug conjugate	PHASE_3	APPROVAL	False	False	False	breast cancer; urothelial cancer; urothelial carcinoma; gastric adenocarcinoma; gastroesophageal junction adenocarcinoma	compensate
+open_targets	TUBB	ENSG00000196230	FOSBRETABULIN DISODIUM	CHEMBL289351		Small molecule	PHASE_2	PHASE_2	False	False	False	neuroendocrine carcinoma; ovarian cancer; choroidal neovascularization; pathological myopia; thyroid gland undifferentiated (anaplastic) carcinoma	compensate
+open_targets	TUBB	ENSG00000196230	CANTUZUMAB RAVTANSINE	CHEMBL1742998		Antibody drug conjugate	PHASE_2	PHASE_2	False	False	False	gastroesophageal junction cancer; gastric cancer	compensate
+open_targets	TUBB	ENSG00000196230	MILATAXEL	CHEMBL2107759		Small molecule	PHASE_2	PHASE_2	False	False	False	solid tumour/cancer; non-small cell lung carcinoma; colorectal cancer; malignant mesothelioma	compensate
+open_targets	TUBB	ENSG00000196230	BMS-275183	CHEMBL4297268		Small molecule	PHASE_2	PHASE_2	False	False	False	solid tumour/cancer; non-small cell lung carcinoma; advanced cancer	compensate
+open_targets	TUBB	ENSG00000196230	VORSETUZUMAB MAFODOTIN	CHEMBL2108672		Antibody drug conjugate	PHASE_1	PHASE_1	False	False	False	renal cell carcinoma; non-Hodgkin lymphoma	compensate
+open_targets	TUBB	ENSG00000196230	APRUTUMAB IXADOTIN	CHEMBL4650293		Antibody drug conjugate	PHASE_1	PHASE_1	False	False	False	solid tumor; gastric cancer; breast cancer	compensate
+open_targets	TUBB	ENSG00000196230	MIRVETUXIMAB SORAVTANSINE	CHEMBL3545132		Antibody drug conjugate	APPROVAL	APPROVAL	True	False	False	ovarian cancer; ovarian neoplasm; fallopian tube neoplasm; peritoneal neoplasm; neoplasm	compensate
+open_targets	TUBB	ENSG00000196230	AVE-9633	CHEMBL2109266		Unknown	PHASE_1	PHASE_1	False	False	False	acute myeloid leukemia	compensate
+open_targets	TUBB	ENSG00000196230	TUSAMITAMAB RAVTANSINE	CHEMBL4298098		Antibody drug conjugate	PHASE_3	PHASE_3	False	False	False	non-small cell lung carcinoma; aggressive cancer; breast cancer; gastric cancer; metastatic breast cancer	compensate
+open_targets	TUBB	ENSG00000196230	MECBOTAMAB VEDOTIN	CHEMBL5095312		Antibody drug conjugate	PHASE_2	PHASE_2	False	False	False	ovarian cancer; soft tissue sarcoma; non-small cell lung carcinoma; cancer; ovarian carcinoma	compensate
+open_targets	TUBB	ENSG00000196230	LORVOTUZUMAB MERTANSINE	CHEMBL1743037		Antibody drug conjugate	PHASE_2	PHASE_2	False	False	False	solid tumour/cancer; hematopoietic and lymphoid cell neoplasm; rhabdomyosarcoma; neuroblastoma; pleuropulmonary blastoma	compensate
+open_targets	TUBB	ENSG00000196230	PINATUZUMAB VEDOTIN	CHEMBL3301585		Antibody drug conjugate	PHASE_2	PHASE_2	False	False	False	diffuse large B-cell lymphoma; non-Hodgkin lymphoma; haematological malignancy; follicular lymphoma; diffuse large B-cell lymphoma	compensate
+open_targets	TUBB	ENSG00000196230	AZINTUXIZUMAB VEDOTIN	CHEMBL4297859		Antibody drug conjugate	PHASE_1	PHASE_1	False	False	False	plasma cell myeloma	compensate
+open_targets	TUBB	ENSG00000196230	BELANTAMAB MAFODOTIN	CHEMBL4298209		Antibody drug conjugate	APPROVAL	APPROVAL	True	False	False	plasma cell myeloma; neoplasm; light chain (AL) amyloidosis; plasmablastic lymphoma; ALK+ large B-cell lymphoma	compensate
+open_targets	TUBB	ENSG00000196230	RG-7636	CHEMBL2109282		Unknown	PHASE_1	PHASE_1	False	False	False	melanoma; cutaneous melanoma; uveal melanoma; mucosal melanoma	compensate
+open_targets	TUBB	ENSG00000196230	INDUSATUMAB VEDOTIN	CHEMBL4298045		Antibody drug conjugate	PHASE_2	PHASE_2	False	False	False	gastrointestinal cancer; gastroesophageal junction adenocarcinoma; gastric adenocarcinoma; pancreatic adenocarcinoma; gastrointestinal malignancies	compensate
+open_targets	TUBB	ENSG00000196230	DOCETAXEL	CHEMBL3545252		Small molecule	APPROVAL	APPROVAL	True	False	False	breast carcinoma; non-small cell lung carcinoma; breast cancer; solid tumour/cancer; prostate cancer	compensate
+open_targets	TUBB	ENSG00000196230	TRASTUZUMAB BOTIDOTIN	CHEMBL5314782		Antibody drug conjugate	PHASE_3	PHASE_3	False	False	False	breast cancer; solid tumour/cancer; solid tumors; neoplasm	compensate
+open_targets	TUBB	ENSG00000196230	ANETUMAB RAVTANSINE	CHEMBL2109629		Antibody drug conjugate	PHASE_2	PHASE_2	False	False	False	malignant pleural mesothelioma; mesothelioma; solid tumour/cancer; lung adenocarcinoma; exocrine pancreatic carcinoma	compensate
+open_targets	TUBB	ENSG00000196230	VINBLASTINE SULFATE	CHEMBL378544		Small molecule	APPROVAL	APPROVAL	True	False	False	fungal infectious disease; Hodgkins lymphoma; lymphoid neoplasm; lymphoma; Hodgkins lymphoma	compensate
+open_targets	TUBB	ENSG00000196230	LEXIBULIN	CHEMBL552212		Small molecule	PHASE_2	PHASE_2	False	False	False	glioblastoma; plasma cell myeloma; glioma	compensate
+open_targets	TUBB	ENSG00000196230	POLATUZUMAB VEDOTIN	CHEMBL3301582		Antibody drug conjugate	APPROVAL	APPROVAL	True	False	False	diffuse large B-cell lymphoma; diffuse large B-cell lymphoma; B-cell non-Hodgkin lymphoma; neoplasm; diffuse large B-cell lymphoma	compensate
+open_targets	TUBB	ENSG00000196230	INDIBULIN	CHEMBL49642		Small molecule	PHASE_2	PHASE_2	False	False	False	advanced sarcoma; solid tumors; breast cancer; neoplasm	compensate
+open_targets	TUBB	ENSG00000196230	ANG1005	CHEMBL1089636		Protein	PHASE_3	PHASE_3	False	False	False	leptomeningeal carcinomatosis; brain metastases; breast cancer; glioblastoma; recurrent glioblastoma	compensate
+open_targets	TUBB	ENSG00000196230	RG-7598	CHEMBL2109279		Unknown	PHASE_1	PHASE_1	False	False	False	plasma cell myeloma	compensate
+open_targets	TUBB	ENSG00000196230	DOCETAXEL ANHYDROUS	CHEMBL92		Small molecule	APPROVAL	APPROVAL	True	False	False	prostate cancer; gastric neoplasm; non-small cell lung carcinoma; breast neoplasm; adenocarcinoma	compensate
+open_targets	TUBB	ENSG00000196230	SAGOPILONE	CHEMBL2304041		Small molecule	PHASE_2	PHASE_2	False	False	False	breast cancer; ovarian cancer; prostate cancer; non-small cell lung carcinoma; small cell lung carcinoma	compensate
+open_targets	TUBB	ENSG00000196230	VINCRISTINE	CHEMBL90555		Small molecule	APPROVAL	APPROVAL	True	False	False	acute lymphoblastic leukaemia; neoplasm; non-Hodgkin lymphoma; Kaposi's sarcoma; head and neck cancer	compensate
+open_targets	TUBB	ENSG00000196230	T-900607	CHEMBL4297440		Small molecule	PHASE_2	PHASE_2	False	False	False	hepatocellular carcinoma; ovarian cancer; non-Hodgkin lymphoma; esophageal adenocarcinoma; gastric cancer	compensate
+open_targets	TUBB	ENSG00000196230	ERIBULIN	CHEMBL1683590		Small molecule	APPROVAL	APPROVAL	True	False	False	breast cancer; breast neoplasm; liposarcoma; neoplasm; non-small cell lung carcinoma	compensate
+open_targets	TUBB	ENSG00000196230	PLINABULIN	CHEMBL1096380		Small molecule	PHASE_3	PHASE_3	False	False	False	non-small cell lung carcinoma; non-small cell lung carcinoma; non-small cell squamous lung carcinoma; plasma cell myeloma; small cell lung carcinoma	compensate
+open_targets	TUBB	ENSG00000196230	VERUBULIN	CHEMBL492399		Small molecule	PHASE_2	PHASE_2	False	False	False	brain metastases; glioblastoma; recurrent glioblastoma; solid tumour/cancer; melanoma	compensate
+open_targets	TUBB	ENSG00000196230	INDATUXIMAB RAVTANSINE	CHEMBL1743031		Antibody drug conjugate	PHASE_2	PHASE_2	False	False	False	plasma cell myeloma	compensate
+open_targets	TUBB	ENSG00000196230	ASG-5ME	CHEMBL2109574		Unknown	PHASE_1	PHASE_1	False	False	False	malignant pancreatic neoplasm; prostate cancer; pancreatic adenocarcinoma; gastric adenocarcinoma	compensate
+open_targets	TUBB	ENSG00000196230	PACLITAXEL	CHEMBL428647		Small molecule	APPROVAL	APPROVAL	True	False	False	non-small cell lung carcinoma; breast carcinoma; breast cancer; carcinoma; solid tumour/cancer	compensate
+open_targets	TUBB	ENSG00000196230	LAROTAXEL	CHEMBL4279455		Small molecule	PHASE_3	PHASE_3	False	False	False	urinary bladder carcinoma; malignant pancreatic neoplasm; breast cancer; urothelial tract cancer	compensate
+open_targets	TUBB	ENSG00000196230	AGS-16C3F	CHEMBL4594455		Unknown	PHASE_2	PHASE_2	False	False	False	renal cell carcinoma	compensate
+open_targets	TUBB	ENSG00000196230	FOSBRETABULIN TROMETHAMINE	CHEMBL2105643		Small molecule	PHASE_2_3	PHASE_2_3	False	False	False	fallopian tube cancer; ovarian cancer; primary peritoneal carcinoma; malignant epithelial tumor of ovary; ovarian carcinoma	compensate
+open_targets	TUBB	ENSG00000196230	VINORELBINE TARTRATE	CHEMBL538943		Small molecule	APPROVAL	APPROVAL	True	False	False	non-small cell lung carcinoma; non-small cell lung carcinoma; Hodgkins lymphoma; rhabdomyosarcoma; breast cancer	compensate
+open_targets	TUBB	ENSG00000196230	SOBLIDOTIN	CHEMBL3989512		Small molecule	PHASE_2	PHASE_2	False	False	False	solid tumour/cancer; non-small cell lung carcinoma; soft tissue sarcoma; solid tumors	compensate
+open_targets	TUBB	ENSG00000196230	VINBLASTINE	CHEMBL159		Small molecule	APPROVAL	APPROVAL	True	False	False	solid tumour/cancer; neoplasm; Hodgkins lymphoma; germ cell tumor; non-small cell lung carcinoma	compensate
+open_targets	TUBB	ENSG00000196230	VINFLUNINE	CHEMBL2110725		Small molecule	APPROVAL	APPROVAL	True	False	False	solid tumour/cancer; neoplasm; urothelial carcinoma; breast cancer; urogenital neoplasm	compensate
+open_targets	TUBB	ENSG00000196230	LOSATUXIZUMAB VEDOTIN	CHEMBL4594515		Antibody drug conjugate	PHASE_1	PHASE_1	False	False	False	solid tumor	compensate
+open_targets	TUBB	ENSG00000196230	ENFORTUMAB VEDOTIN	CHEMBL3301589		Antibody drug conjugate	APPROVAL	APPROVAL	True	False	False	urothelial carcinoma; urologic neoplasms; transitional cell carcinoma; neoplasm; urinary bladder carcinoma	compensate
+open_targets	TUBB	ENSG00000196230	DENINTUZUMAB MAFODOTIN	CHEMBL3545371		Antibody drug conjugate	PHASE_2	PHASE_2	False	False	False	diffuse large B-cell lymphoma; follicular lymphoma; diffuse large B-cell lymphoma; acute lymphoblastic leukaemia; non-Hodgkin lymphoma	compensate
+open_targets	TUBB	ENSG00000196230	PF-06263507	CHEMBL4297804		Unknown	PHASE_1	PHASE_1	False	False	False	solid tumour/cancer; solid tumors	compensate
+open_targets	TUBB	ENSG00000196230	BRENTUXIMAB VEDOTIN	CHEMBL1742994		Antibody drug conjugate	APPROVAL	APPROVAL	True	False	False	anaplastic large cell lymphoma; Hodgkins lymphoma; Hodgkins lymphoma; Hodgkins lymphoma; non-Hodgkin lymphoma	compensate
+open_targets	TUBB	ENSG00000196230	COLTUXIMAB RAVTANSINE	CHEMBL2109286		Antibody drug conjugate	PHASE_2	PHASE_2	False	False	False	diffuse large B-cell lymphoma; non-Hodgkin lymphoma; acute lymphoblastic leukemia; diffuse large B-cell lymphoma; non-Hodgkin lymphoma	compensate
+open_targets	TUBB	ENSG00000196230	KOS-1584	CHEMBL4297296		Small molecule	PHASE_2	PHASE_2	False	False	False	non-small cell lung carcinoma	compensate
+open_targets	TUBB	ENSG00000196230	GLEMBATUMUMAB VEDOTIN	CHEMBL1743028		Antibody drug conjugate	APPROVAL	APPROVAL	True	False	False	lymphoma; breast cancer; triple-negative breast carcinoma; melanoma; uveal melanoma	compensate
+open_targets	TUBB	ENSG00000196230	ABT-751	CHEMBL20684		Small molecule	PHASE_2	PHASE_2	False	False	False	solid tumour/cancer; breast cancer; colorectal carcinoma; non-small cell lung carcinoma; neuroblastoma	compensate
+open_targets	TUBB	ENSG00000196230	CANTUZUMAB MERTANSINE	CHEMBL1742997		Antibody drug conjugate	PHASE_2	PHASE_2	False	False	False	non-small cell lung carcinoma	compensate
+open_targets	TUBB	ENSG00000196230	DAVUNETIDE	CHEMBL2103826		Protein	PHASE_3	PHASE_3	False	False	False	Cognitive impairment; progressive supranuclear palsy; Alzheimer disease; Cognitive impairment; mild cognitive impairment	compensate
+open_targets	TUBB	ENSG00000196230	LIFASTUZUMAB VEDOTIN	CHEMBL4297938		Antibody drug conjugate	PHASE_2	PHASE_2	False	False	False	ovarian cancer; primary peritoneal carcinoma; fallopian tube cancer; non-small cell lung carcinoma	compensate
+open_targets	TUBB	ENSG00000196230	FOSBRETABULIN	CHEMBL1206232		Small molecule	PHASE_3	PHASE_3	False	False	False	thyroid gland undifferentiated (anaplastic) carcinoma; rheumatoid arthritis; thyroid gland undifferentiated (anaplastic) carcinoma; imageable malignancies; non-small cell lung carcinoma	compensate
+open_targets	TUBB	ENSG00000196230	BIIB-015	CHEMBL2109575		Unknown	PHASE_1	PHASE_1	False	False	False	solid tumour/cancer; neoplasm	compensate
+open_targets	TUBB	ENSG00000196230	PLOCABULIN	CHEMBL4297636		Small molecule	PHASE_2	PHASE_2	False	False	False	colorectal cancer; solid tumour/cancer; solid tumor; neoplasm	compensate
+open_targets	TUBB	ENSG00000196230	IMGN-388	CHEMBL2109633		Unknown	PHASE_1	PHASE_1	False	False	False	solid tumour/cancer; solid tumors	compensate
+open_targets	TUBB	ENSG00000196230	PACLITAXEL DOCOSAHEXAENOIC ACID	CHEMBL4297441		Small molecule	PHASE_3	PHASE_3	False	False	False	melanoma; non-small cell lung carcinoma; melanoma; biliary tract carcinoma; hepatocellular carcinoma	compensate
+open_targets	TUBB	ENSG00000196230	DOLASTATIN-10	CHEMBL39541		Small molecule	PHASE_2	PHASE_2	False	False	False	solid tumour/cancer; gallbladder cancer; liver cancer; bile duct cancer; prostate adenocarcinoma	compensate
+open_targets	TUBB	ENSG00000196230	CROLIBULIN	CHEMBL2103852		Small molecule	PHASE_1_2	PHASE_1_2	False	False	False	solid tumour/cancer; solid tumors; thyroid cancer; lymphoma	compensate
+open_targets	TUBB	ENSG00000196230	SOFITUZUMAB VEDOTIN	CHEMBL3545372		Antibody drug conjugate	PHASE_1	PHASE_1	False	False	False	fallopian tube cancer; ovarian cancer; peritoneum cancer; malignant pancreatic neoplasm	compensate
+open_targets	TUBB	ENSG00000196230	ENAPOTAMAB VEDOTIN	CHEMBL4297987		Antibody drug conjugate	PHASE_1_2	PHASE_1_2	False	False	False	solid tumour/cancer; solid tumors	compensate
+open_targets	TUBB	ENSG00000196230	BIVATUZUMAB MERTANSINE	CHEMBL2109288		Antibody drug conjugate	UNKNOWN	UNKNOWN	False	False	False	solid tumour/cancer	compensate
+open_targets	TUBB	ENSG00000196230	VINFLUNINE DITARTRATE	CHEMBL2105629		Small molecule	APPROVAL	APPROVAL	True	False	False	benign urinary system neoplasm; transitional cell carcinoma	compensate
+open_targets	TUBB	ENSG00000196230	TRASTUZUMAB EMTANSINE	CHEMBL1743082		Antibody drug conjugate	APPROVAL	APPROVAL	True	False	False	breast cancer; breast carcinoma; breast neoplasm; neoplasm; HER2 positive breast carcinoma	compensate
+open_targets	TUBB	ENSG00000196230	IXABEPILONE	CHEMBL1201752		Small molecule	APPROVAL	APPROVAL	True	False	False	breast cancer; neoplasm; breast carcinoma; endometrial cancer; prostate cancer	compensate
+open_targets	TUBB	ENSG00000196230	OMBRABULIN	CHEMBL572284		Small molecule	PHASE_3	PHASE_3	False	False	False	sarcoma; soft tissue sarcoma; non-small cell lung carcinoma; ovarian cancer; solid tumor	compensate
+open_targets	TUBB	ENSG00000196230	VINORELBINE	CHEMBL553025		Small molecule	APPROVAL	APPROVAL	True	False	False	solid tumour/cancer; neoplasm; non-small cell lung carcinoma; cervical carcinoma; malignant pleural mesothelioma	compensate
+open_targets	TUBB	ENSG00000196230	PRALUZATAMAB RAVTANSINE	CHEMBL4297736		Antibody drug conjugate	PHASE_2	PHASE_2	False	False	False	neoplasm; breast cancer; solid tumour/cancer; solid tumor	compensate
+open_targets	TUBB	ENSG00000196230	TELISOTUZUMAB VEDOTIN	CHEMBL3990032		Antibody drug conjugate	PHASE_3	PHASE_3	False	False	False	non-small cell lung carcinoma; non-small cell lung carcinoma; squamous cell lung carcinoma; squamous cell carcinoma; non-small cell squamous lung carcinoma	compensate
+open_targets	TUBB	ENSG00000196230	TISOTUMAB VEDOTIN	CHEMBL4297841		Antibody drug conjugate	APPROVAL	APPROVAL	True	False	False	cervical cancer; cervical cancer; cancer; neoplasm; ovarian cancer	compensate
+chembl	TUBB	ENSG00000196230	CHEMBL1743082	CHEMBL1743082	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL1742994	CHEMBL1742994	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL428647	CHEMBL428647	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL3545252	CHEMBL3545252	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL1683544	CHEMBL1683544	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL1201748	CHEMBL1201748	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL107	CHEMBL107	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL1201752	CHEMBL1201752	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL501867	CHEMBL501867	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL538943	CHEMBL538943	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL378544	CHEMBL378544	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2108628	CHEMBL2108628	Tubulin stabiliser	STABILISER			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL49642	CHEMBL49642	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2103826	CHEMBL2103826	Tubulin stabiliser	STABILISER			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2103852	CHEMBL2103852	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL552212	CHEMBL552212	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2110725	CHEMBL2110725	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL289351	CHEMBL289351	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2105643	CHEMBL2105643	Tubulin disrupting agent	DISRUPTING AGENT			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2304041	CHEMBL2304041	Tubulin stabiliser	STABILISER			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL1096380	CHEMBL1096380	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL492399	CHEMBL492399	Tubulin disrupting agent	DISRUPTING AGENT			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL3545132	CHEMBL3545132	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL3301582	CHEMBL3301582	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL4297935	CHEMBL4297935	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL4297804	CHEMBL4297804	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL4297859	CHEMBL4297859	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL4297987	CHEMBL4297987	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL4298045	CHEMBL4298045	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL4298101	CHEMBL4298101	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL4297938	CHEMBL4297938	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL3990032	CHEMBL3990032	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL4297841	CHEMBL4297841	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL4298209	CHEMBL4298209	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL4297268	CHEMBL4297268	Tubulin stabiliser	STABILISER			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL39541	CHEMBL39541	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL96172	CHEMBL96172	Tubulin stabiliser	STABILISER			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL4297296	CHEMBL4297296	Tubulin stabiliser	STABILISER			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL4279455	CHEMBL4279455	Tubulin stabiliser	STABILISER			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL4297441	CHEMBL4297441	Tubulin stabiliser	STABILISER			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL4594455	CHEMBL4594455	Tubulin disrupting agent	DISRUPTING AGENT			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL94657	CHEMBL94657	Tubulin stabiliser	STABILISER			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL4298098	CHEMBL4298098	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL1089636	CHEMBL1089636	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL4650293	CHEMBL4650293	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2109574	CHEMBL2109574	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL3301589	CHEMBL3301589	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL1743028	CHEMBL1743028	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL3301585	CHEMBL3301585	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2109281	CHEMBL2109281	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2109282	CHEMBL2109282	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL3545372	CHEMBL3545372	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL3833306	CHEMBL3833306	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2111109	CHEMBL2111109	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL4297440	CHEMBL4297440	Tubulin disrupting agent	DISRUPTING AGENT			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL1743037	CHEMBL1743037	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL1742997	CHEMBL1742997	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2109288	CHEMBL2109288	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL4297736	CHEMBL4297736	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL4297892	CHEMBL4297892	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2107759	CHEMBL2107759	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL572284	CHEMBL572284	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL3989512	CHEMBL3989512	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL4297636	CHEMBL4297636	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2105629	CHEMBL2105629	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL92	CHEMBL92	Tubulin stabiliser	STABILISER			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL4594515	CHEMBL4594515	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2109266	CHEMBL2109266	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2109633	CHEMBL2109633	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL1742998	CHEMBL1742998	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2109556	CHEMBL2109556	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2109286	CHEMBL2109286	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL5095273	CHEMBL5095273	Tubulin disrupting agent	DISRUPTING AGENT			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL5314782	CHEMBL5314782	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2109629	CHEMBL2109629	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL3545371	CHEMBL3545371	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL3707277	CHEMBL3707277	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL1743031	CHEMBL1743031	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2108672	CHEMBL2108672	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2109635	CHEMBL2109635	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL5095312	CHEMBL5095312	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2109575	CHEMBL2109575	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL2109279	CHEMBL2109279	Tubulin inhibitor	INHIBITOR			False	False	False		compensate
+chembl	TUBB	ENSG00000196230	CHEMBL20684	CHEMBL20684	Tubulin beta inhibitor	INHIBITOR			False	False	False		compensate
+open_targets	HSP90AA1	ENSG00000080824	RETASPIMYCIN	CHEMBL1184904		Small molecule	PHASE_2	PHASE_2	False	False	False	non-small cell lung carcinoma; dedifferentiated liposarcoma; non-small cell lung carcinoma; neoplasm	worsen
+open_targets	HSP90AA1	ENSG00000080824	BIIB021	CHEMBL467399		Small molecule	PHASE_2	PHASE_2	False	False	False	breast cancer; gastrointestinal stromal tumor; B-cell chronic lymphocytic leukemia; solid tumors	worsen
+open_targets	HSP90AA1	ENSG00000080824	SNX 5422	CHEMBL1195136		Small molecule	PHASE_2	PHASE_2	False	False	False	cancer; haematological malignancy; non-small cell lung carcinoma; breast cancer; B-cell chronic lymphocytic leukemia	worsen
+open_targets	HSP90AA1	ENSG00000080824	RETASPIMYCIN HYDROCHLORIDE	CHEMBL377559		Small molecule	PHASE_3	PHASE_3	False	False	False	gastrointestinal stromal tumor; prostate cancer; melanoma; breast cancer; dedifferentiated liposarcoma	worsen
+open_targets	HSP90AA1	ENSG00000080824	GANETESPIB	CHEMBL2103879		Small molecule	PHASE_3	PHASE_3	False	False	False	non-small cell lung carcinoma; non-small cell lung carcinoma; gastrointestinal stromal tumor; breast cancer; cancer	worsen
+open_targets	HSP90AA1	ENSG00000080824	LUMINESPIB	CHEMBL252164		Small molecule	PHASE_2	PHASE_2	False	False	False	plasma cell myeloma; solid tumour/cancer; gastric cancer; non-small cell lung carcinoma; gastrointestinal stromal tumor	worsen
+open_targets	HSP90AA1	ENSG00000080824	ALVESPIMYCIN	CHEMBL383824		Small molecule	PHASE_2	PHASE_2	False	False	False	breast cancer; solid tumor malignancies	worsen
+open_targets	HSP90AA1	ENSG00000080824	TANESPIMYCIN	CHEMBL109480		Small molecule	PHASE_3	PHASE_3	False	False	False	plasma cell myeloma; breast cancer; melanoma; kidney neoplasm; von Hippel-Lindau disease	worsen
+open_targets	HSP90AA1	ENSG00000080824	ONALESPIB	CHEMBL1214827		Small molecule	PHASE_2	PHASE_2	False	False	False	gastrointestinal stromal tumor; anaplastic large cell lymphoma; diffuse large B-cell lymphoma; mantle cell lymphoma; prostate cancer	worsen
+open_targets	HSP90AA1	ENSG00000080824	CD24FC	CHEMBL4297717		Unknown	PHASE_3	PHASE_3	False	False	False	coronavirus disease 2019 (covid-19); COVID-19; human immunodeficiency virus infection; melanoma; immune-related adverse events	worsen
+chembl	HSP90AA1	ENSG00000080824	CHEMBL2103879	CHEMBL2103879	Heat shock protein HSP90 inhibitor	INHIBITOR			False	False	False		worsen
+chembl	HSP90AA1	ENSG00000080824	CHEMBL377559	CHEMBL377559	Heat shock protein HSP90 inhibitor	INHIBITOR			False	False	False		worsen
+chembl	HSP90AA1	ENSG00000080824	CHEMBL109480	CHEMBL109480	Heat shock protein HSP90 inhibitor	INHIBITOR			False	False	False		worsen
+chembl	HSP90AA1	ENSG00000080824	CHEMBL4297717	CHEMBL4297717	Heat shock protein HSP90 inhibitor	INHIBITOR			False	False	False		worsen
+chembl	HSP90AA1	ENSG00000080824	CHEMBL467399	CHEMBL467399	Heat shock protein HSP90 inhibitor	INHIBITOR			False	False	False		worsen
+chembl	HSP90AA1	ENSG00000080824	CHEMBL383824	CHEMBL383824	Heat shock protein HSP90 inhibitor	INHIBITOR			False	False	False		worsen
+chembl	HSP90AA1	ENSG00000080824	CHEMBL1214827	CHEMBL1214827	Heat shock protein HSP90 inhibitor	INHIBITOR			False	False	False		worsen
+chembl	HSP90AA1	ENSG00000080824	CHEMBL1195136	CHEMBL1195136	Heat shock protein HSP90 inhibitor	INHIBITOR			False	False	False		worsen
+chembl	HSP90AA1	ENSG00000080824	CHEMBL252164	CHEMBL252164	Heat shock protein HSP90 inhibitor	INHIBITOR			False	False	False		worsen
+open_targets	MTOR	ENSG00000198793	PERHEXILINE	CHEMBL75880		Small molecule	APPROVAL	APPROVAL	True	False	False	cardiovascular disorder; angina pectoris; myocardial injury; heart muscle injury; left ventricular hypertrophy	trap
+open_targets	MTOR	ENSG00000198793	DS-7423	CHEMBL3545248		Unknown	PHASE_1	PHASE_1	False	False	False	solid tumour/cancer; solid malignant tumor; colorectal cancer; endometrial cancer	trap
+open_targets	MTOR	ENSG00000198793	CC-115	CHEMBL3586573		Small molecule	PHASE_2	PHASE_2	False	False	False	glioblastoma; plasma cell myeloma; non-Hodgkin lymphoma; B-cell chronic lymphocytic leukemia; B-cell chronic lymphocytic leukemia	trap
+open_targets	MTOR	ENSG00000198793	GEDATOLISIB	CHEMBL592445		Small molecule	PHASE_3	PHASE_3	False	False	False	breast cancer; solid tumour/cancer; endometrial cancer; colorectal cancer; myelodysplastic syndrome	trap
+open_targets	MTOR	ENSG00000198793	PANULISIB	CHEMBL5095025		Small molecule	PHASE_1	PHASE_1	False	False	False	solid tumour/cancer; solid tumor	trap
+open_targets	MTOR	ENSG00000198793	AZD-8055	CHEMBL1801204		Small molecule	PHASE_1_2	PHASE_1_2	False	False	False	solid tumour/cancer; solid tumours; neoplasm; hepatocellular carcinoma; solid malignancies	trap
+open_targets	MTOR	ENSG00000198793	BGT-226	CHEMBL3545096		Small molecule	PHASE_1_2	PHASE_1_2	False	False	False	solid tumour/cancer; solid malignancies; breast cancer; solid tumor	trap
+open_targets	MTOR	ENSG00000198793	SAMOTOLISIB	CHEMBL4297181		Small molecule	PHASE_2	PHASE_2	False	False	False	prostate cancer; solid tumour/cancer; non-small cell lung carcinoma; endometrial cancer; pancreatic ductal adenocarcinoma	trap
+open_targets	MTOR	ENSG00000198793	OMIPALISIB	CHEMBL1236962		Small molecule	PHASE_1	PHASE_1	False	False	False	lymphoma; solid tumors; idiopathic pulmonary fibrosis	trap
+open_targets	MTOR	ENSG00000198793	OSI-027	CHEMBL3120215		Small molecule	PHASE_2	PHASE_2	False	False	False	renal cell carcinoma; lymphatic malformation; solid tumors; lymphoma; complex lymphatic malformations	trap
+open_targets	MTOR	ENSG00000198793	RG-7603	CHEMBL2331680		Small molecule	PHASE_1	PHASE_1	False	False	False	non-Hodgkin lymphoma; solid tumors; non-Hodgkin lymphoma	trap
+open_targets	MTOR	ENSG00000198793	VISTUSERTIB	CHEMBL2336325		Small molecule	PHASE_2	PHASE_2	False	False	False	solid tumour/cancer; renal cell adenocarcinoma; kidney cancer; non-small cell lung carcinoma; breast cancer	trap
+open_targets	MTOR	ENSG00000198793	DACTOLISIB	CHEMBL1879463		Small molecule	PHASE_3	PHASE_3	False	False	False	Respiratory tract infection; solid tumour/cancer; coronavirus disease 2019 (covid-19); breast cancer; endometrial carcinoma	trap
+open_targets	MTOR	ENSG00000198793	SAPANISERTIB	CHEMBL3545097		Small molecule	PHASE_2	PHASE_2	False	False	False	breast cancer; plasma cell myeloma; prostate cancer; non-small cell lung carcinoma; solid tumor	trap
+open_targets	MTOR	ENSG00000198793	PALOMID-529	CHEMBL2141712		Small molecule	PHASE_1	PHASE_1	False	False	False	Alzheimer disease; macular degeneration; wet macular degeneration; age-related macular degeneration	trap
+open_targets	MTOR	ENSG00000198793	VOXTALISIB	CHEMBL3545366		Small molecule	PHASE_2	PHASE_2	False	False	False	solid tumour/cancer; mantle cell lymphoma; diffuse large B-cell lymphoma; B-cell chronic lymphocytic leukemia; follicular lymphoma	trap
+open_targets	MTOR	ENSG00000198793	PERHEXILINE MALEATE	CHEMBL1334033		Small molecule	PHASE_3	APPROVAL	False	False	False	heart failure; hypertrophic cardiomyopathy	trap
+open_targets	MTOR	ENSG00000198793	APITOLISIB	CHEMBL1922094		Small molecule	PHASE_2	PHASE_2	False	False	False	non-Hodgkin lymphoma; breast cancer; renal cell carcinoma; endometrial carcinoma; prostate cancer	trap
+open_targets	MTOR	ENSG00000198793	PF-04691502	CHEMBL1234354		Small molecule	PHASE_2	PHASE_2	False	False	False	endometrial cancer; breast cancer; malignant solid tumors	trap
+open_targets	MTOR	ENSG00000198793	RIDAFOROLIMUS	CHEMBL2103839		Small molecule	APPROVAL	APPROVAL	True	False	False	neoplasm; sarcoma; coronary artery disorder; bone sarcoma; soft tissue sarcoma	trap
+open_targets	MTOR	ENSG00000198793	PKI-179	CHEMBL1258517		Small molecule	PHASE_1	PHASE_1	False	False	False	colorectal cancer; glioblastoma; endometrial cancer; ovarian cancer; non-small cell lung carcinoma	trap
+open_targets	MTOR	ENSG00000198793	SF-1126	CHEMBL2326966		Small molecule	PHASE_2	PHASE_2	False	False	False	head and neck cancer; head and neck squamous cell carcinoma; hepatocellular carcinoma; solid tumour/cancer; solid tumors	trap
+open_targets	MTOR	ENSG00000198793	DS-3078A	CHEMBL3544963		Unknown	PHASE_1	PHASE_1	False	False	False	advanced solid tumor; lymphoma	trap
+open_targets	MTOR	ENSG00000198793	ONATASERTIB	CHEMBL3586404		Small molecule	PHASE_2	PHASE_2	False	False	False	hepatocellular carcinoma; solid tumor; solid tumour/cancer; solid tumors; non-Hodgkin lymphoma	trap
+open_targets	MTOR	ENSG00000198793	VS-5584	CHEMBL3393066		Small molecule	PHASE_1	PHASE_1	False	False	False	malignant mesothelioma; solid tumour/cancer; non-hematologic malignancies; lymphoma	trap
+open_targets	MTOR	ENSG00000198793	INDOXIMOD	CHEMBL571209		Small molecule	PHASE_2_3	PHASE_2_3	False	False	False	melanoma; malignant pancreatic neoplasm; prostate cancer; breast cancer; melanoma	trap
+chembl	MTOR	ENSG00000198793	CHEMBL3545097	CHEMBL3545097	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL1801204	CHEMBL1801204	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL3586573	CHEMBL3586573	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL3544963	CHEMBL3544963	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL3545248	CHEMBL3545248	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL1236962	CHEMBL1236962	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL5095025	CHEMBL5095025	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL2141712	CHEMBL2141712	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL1258517	CHEMBL1258517	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL3545323	CHEMBL3545323	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL3545006	CHEMBL3545006	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL2331680	CHEMBL2331680	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL2326966	CHEMBL2326966	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL3393066	CHEMBL3393066	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL1879463	CHEMBL1879463	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL3545096	CHEMBL3545096	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL3586404	CHEMBL3586404	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL3120215	CHEMBL3120215	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL1234354	CHEMBL1234354	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL592445	CHEMBL592445	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL1922094	CHEMBL1922094	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL3545366	CHEMBL3545366	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL4297181	CHEMBL4297181	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL2103839	CHEMBL2103839	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL1334033	CHEMBL1334033	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL2336325	CHEMBL2336325	Serine/threonine-protein kinase mTOR inhibitor	INHIBITOR			False	False	False		trap
+chembl	MTOR	ENSG00000198793	CHEMBL571209	CHEMBL571209	mTORC1 activator	ACTIVATOR			False	False	False		trap

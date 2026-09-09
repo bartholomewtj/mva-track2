@@ -1,0 +1,288 @@
+{
+  "BELANTAMAB MAFODOTIN": {
+    "query": "BELANTAMAB MAFODOTIN",
+    "found": true,
+    "brand": "Blenrep",
+    "generic": "BELANTAMAB MAFODOTIN",
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "boxed_warning": true,
+    "pediatric_use": true,
+    "pediatric_snippet": "8.4 Pediatric Use The safety and effectiveness of BLENREP in pediatric patients have not been established.",
+    "warnings_snippet": "5 WARNINGS AND PRECAUTIONS \u2022 Thrombocytopenia: Monitor complete blood counts at baseline and periodically during treatment. Withhold or reduce the dosage based on severity. ( 2.3 , 5.3 ) \u2022 Embryo\u2011fetal Toxicity: Can cause fetal harm. Advise patients of the potential risk to fetus and to use effective contraception. ( 5.4 , 8.1 , 8.3 ) 5.1 Ocular Toxicity BLENREP causes ocular toxicity, defined as "
+  },
+  "BRENTUXIMAB VEDOTIN": {
+    "query": "BRENTUXIMAB VEDOTIN",
+    "found": true,
+    "brand": "ADCETRIS",
+    "generic": "BRENTUXIMAB VEDOTIN",
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "boxed_warning": true,
+    "pediatric_use": true,
+    "pediatric_snippet": "8.4 Pediatric Use The safety and effectiveness of ADCETRIS have been established in pediatric patients age 2 years and older with previously untreated high risk classical Hodgkin lymphoma in combination with doxorubicin, vincristine, etoposide, prednisone, and cyclophosphamide. The safety and effectiveness of ADCETRIS have not been established for all other indications [see Indications and Usage (",
+    "warnings_snippet": "5 WARNINGS AND PRECAUTIONS \u2022 Peripheral neuropathy : Monitor patients for neuropathy and institute dose modifications accordingly ( 5.1 ). \u2022 Anaphylaxis and infusion reactions : If an infusion reaction occurs, interrupt the infusion. If anaphylaxis occurs, immediately discontinue the infusion ( 5.2 ). \u2022 Hematologic toxicities : Monitor complete blood counts. Monitor for signs of infection. Manage "
+  },
+  "CABAZITAXEL": {
+    "query": "CABAZITAXEL",
+    "found": true,
+    "brand": "Jevtana",
+    "generic": "CABAZITAXEL",
+    "route": [],
+    "boxed_warning": true,
+    "pediatric_use": true,
+    "pediatric_snippet": "8.4 Pediatric Use The safety and effectiveness of JEVTANA in pediatric patients have not been established. JEVTANA was evaluated in 39 pediatric patients (ages 3 to 18 years) receiving prophylactic G-CSF. The maximum tolerated dose (MTD) was 30 mg/m 2 intravenously over 1 hour on Day 1 of a 21 day cycle in pediatric patients with solid tumors based on the dose-limiting toxicity (DLT) of febrile ne",
+    "warnings_snippet": "5 WARNINGS AND PRECAUTIONS Bone marrow suppression (particularly neutropenia) and its clinical consequences (febrile neutropenia, neutropenic infections, and death): Monitor blood counts frequently to determine if dosage modification or initiation of G-CSF is needed. Closely monitor patients with hemoglobin <10 g/dL. ( 2.2 , 4 , 5.1 ) Increased toxicities in elderly patients: Patients \u226565 years of"
+  },
+  "COLCHICINE": {
+    "query": "COLCHICINE",
+    "found": true,
+    "brand": "colchicine",
+    "generic": "COLCHICINE",
+    "route": [
+      "ORAL"
+    ],
+    "boxed_warning": false,
+    "pediatric_use": true,
+    "pediatric_snippet": "8.4 Pediatric Use The safety and efficacy of colchicine in children of all ages with FMF has been evaluated in uncontrolled studies. There does not appear to be an adverse effect on growth in children with FMF treated long-term with colchicine. Safety and effectiveness of colchicine in pediatric patients with gout has not been established.",
+    "warnings_snippet": "5 WARNINGS AND PRECAUTIONS \u2022 Fatal overdoses have been reported with colchicine in adults and children. Keep colchicine tablets out of the reach of children ( Error! Hyperlink reference not valid. , Error! Hyperlink reference not valid. ). \u2022 Blood dyscrasias: myelosuppression, leukopenia, granulocytopenia, thrombocytopenia and aplastic anemia have been reported ( Error! Hyperlink reference not val"
+  },
+  "DOCETAXEL": {
+    "query": "DOCETAXEL",
+    "found": true,
+    "brand": "Docetaxel",
+    "generic": "DOCETAXEL ANHYDROUS",
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "boxed_warning": true,
+    "pediatric_use": true,
+    "pediatric_snippet": "8.4 Pediatric Use The alcohol content of Docetaxel Injection should be taken into account when given to pediatric patients [ see Warnings and Precautions (5.13) ]. The efficacy of docetaxel in pediatric patients as monotherapy or in combination has not been established. The overall safety profile of docetaxel in pediatric patients receiving monotherapy or TCF was consistent with the known safety p",
+    "warnings_snippet": "5 WARNINGS AND PRECAUTIONS \u2022 Second primary malignancies: In patients treated with Docetaxel Injection-containing regimens, monitor for delayed AML, MDS, NHL, and renal cancer. ( 5.7 ) \u2022 Cutaneous reactions: Reactions including erythema of the extremities with edema followed by desquamation may occur. Severe cutaneous adverse reactions have been reported. Severe skin toxicity may require dose adju"
+  },
+  "DOCETAXEL ANHYDROUS": {
+    "query": "DOCETAXEL ANHYDROUS",
+    "found": true,
+    "brand": "Docetaxel",
+    "generic": "DOCETAXEL ANHYDROUS",
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "boxed_warning": true,
+    "pediatric_use": true,
+    "pediatric_snippet": "8.4 Pediatric Use The alcohol content of Docetaxel Injection should be taken into account when given to pediatric patients [ see Warnings and Precautions (5.13) ]. The efficacy of docetaxel in pediatric patients as monotherapy or in combination has not been established. The overall safety profile of docetaxel in pediatric patients receiving monotherapy or TCF was consistent with the known safety p",
+    "warnings_snippet": "5 WARNINGS AND PRECAUTIONS \u2022 Second primary malignancies: In patients treated with Docetaxel Injection-containing regimens, monitor for delayed AML, MDS, NHL, and renal cancer. ( 5.7 ) \u2022 Cutaneous reactions: Reactions including erythema of the extremities with edema followed by desquamation may occur. Severe cutaneous adverse reactions have been reported. Severe skin toxicity may require dose adju"
+  },
+  "ENFORTUMAB VEDOTIN": {
+    "query": "ENFORTUMAB VEDOTIN",
+    "found": true,
+    "brand": "PADCEV EJFV",
+    "generic": "ENFORTUMAB VEDOTIN",
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "boxed_warning": true,
+    "pediatric_use": true,
+    "pediatric_snippet": "8.4 Pediatric Use Safety and effectiveness of PADCEV in pediatric patients have not been established.",
+    "warnings_snippet": "5 WARNINGS AND PRECAUTIONS \u2022 Hyperglycemia: Diabetic ketoacidosis may occur in patients with and without preexisting diabetes mellitus, which may be fatal. Closely monitor blood glucose levels in patients with, or at risk for, diabetes mellitus or hyperglycemia. Withhold PADCEV if blood glucose is >250 mg/dL. ( 2.2 , 5.2 ) \u2022 Pneumonitis/Interstitial Lung Disease (ILD): Severe, life-threatening or "
+  },
+  "ERIBULIN": {
+    "query": "ERIBULIN",
+    "found": true,
+    "brand": "Eribulin Mesylate",
+    "generic": "ERIBULIN MESYLATE",
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "boxed_warning": false,
+    "pediatric_use": true,
+    "pediatric_snippet": "8.4 Pediatric Use The safety and effectiveness of eribulin mesylate injection in pediatric patients have not been established. Pediatric use information describing clinical studies in which efficacy was not demonstrated is approved for Eisai Inc\u2019s HALAVEN \u00ae (eribulin mesylate) injection. However, due to Eisai Inc\u2019s marketing exclusivity rights, this drug product is not labeled with that informatio",
+    "warnings_snippet": "5 WARNINGS AND PRECAUTIONS Neutropenia : Monitor peripheral blood cell counts and adjust dose as appropriate. ( 5.1 ) Peripheral Neuropathy : Monitor for signs of neuropathy. Manage with dose delay and adjustment. ( 5.2 ) Embryo-Fetal Toxicity : Can cause fetal harm. Advise females of reproductive potential of the potential risk to the fetus and to use effective contraception. ( 5.3 , 8.1 , 8.3 ) "
+  },
+  "ERIBULIN MESYLATE": {
+    "query": "ERIBULIN MESYLATE",
+    "found": true,
+    "brand": "Eribulin Mesylate",
+    "generic": "ERIBULIN MESYLATE",
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "boxed_warning": false,
+    "pediatric_use": true,
+    "pediatric_snippet": "8.4 Pediatric Use The safety and effectiveness of eribulin mesylate injection in pediatric patients have not been established. Pediatric use information describing clinical studies in which efficacy was not demonstrated is approved for Eisai Inc\u2019s HALAVEN \u00ae (eribulin mesylate) injection. However, due to Eisai Inc\u2019s marketing exclusivity rights, this drug product is not labeled with that informatio",
+    "warnings_snippet": "5 WARNINGS AND PRECAUTIONS Neutropenia : Monitor peripheral blood cell counts and adjust dose as appropriate. ( 5.1 ) Peripheral Neuropathy : Monitor for signs of neuropathy. Manage with dose delay and adjustment. ( 5.2 ) Embryo-Fetal Toxicity : Can cause fetal harm. Advise females of reproductive potential of the potential risk to the fetus and to use effective contraception. ( 5.3 , 8.1 , 8.3 ) "
+  },
+  "GLEMBATUMUMAB VEDOTIN": {
+    "query": "GLEMBATUMUMAB VEDOTIN",
+    "found": false
+  },
+  "IXABEPILONE": {
+    "query": "IXABEPILONE",
+    "found": true,
+    "brand": "IXEMPRA",
+    "generic": "IXABEPILONE",
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "boxed_warning": true,
+    "pediatric_use": true,
+    "pediatric_snippet": "8.4 Pediatric Use The alcohol content of IXEMPRA should be taken into account when given to pediatric patients [see Warnings and Precautions ( 5.6 )] . The safety and effectiveness of IXEMPRA in pediatric patients have not been established. Safety and efficacy were assessed, but not established for IXEMPRA across two studies: an open-label, dose-finding trial in 21 patients aged 2 to 18 years with",
+    "warnings_snippet": "5 WARNINGS AND PRECAUTIONS Peripheral Neuropathy: Monitor for symptoms of neuropathy (sensory and motor neuropathy).) Withhold, reduce, or discontinue IXEMPRA depending on severity. ( 2.3 , 5.1 ). Myelosuppression: Neutropenia, febrile neutropenia, and infections have occurred. Monitor blood cell counts before and during treatment with IXEMPRA. Withhold, reduce, or discontinue IXEMPRA depending on"
+  },
+  "MIRVETUXIMAB SORAVTANSINE": {
+    "query": "MIRVETUXIMAB SORAVTANSINE",
+    "found": true,
+    "brand": "ELAHERE",
+    "generic": "MIRVETUXIMAB SORAVTANSINE",
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "boxed_warning": true,
+    "pediatric_use": true,
+    "pediatric_snippet": "8.4 Pediatric Use Safety and effectiveness of ELAHERE have not been established in pediatric patients.",
+    "warnings_snippet": "5 WARNINGS AND PRECAUTIONS Pneumonitis: Withhold ELAHERE for persistent or recurrent Grade 2 pneumonitis and consider dose reduction. Permanently discontinue ELAHERE for Grade 3 or 4 pneumonitis. ( 2.4 , 5.2 ) Peripheral Neuropathy: Monitor patients for new or worsening peripheral neuropathy. Withhold dosage, dose reduce, or permanently discontinue ELAHERE based on the severity of peripheral neuro"
+  },
+  "PACLITAXEL": {
+    "query": "PACLITAXEL",
+    "found": true,
+    "brand": "Paclitaxel",
+    "generic": "PACLITAXEL",
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "boxed_warning": true,
+    "pediatric_use": true,
+    "pediatric_snippet": "Pediatric Use The safety and effectiveness of paclitaxel in pediatric patients have not been established. There have been reports of central nervous system (CNS) toxicity (rarely associated with death) in a clinical trial in pediatric patients in which paclitaxel was infused intravenously over 3 hours at doses ranging from 350 mg/m 2 to 420 mg/m 2 . The toxicity is most likely attributable to the ",
+    "warnings_snippet": "WARNINGS Anaphylaxis and severe hypersensitivity reactions characterized by dyspnea and hypotension requiring treatment, angioedema, and generalized urticaria have occurred in 2 to 4% of patients receiving paclitaxel in clinical trials. Fatal reactions have occurred in patients despite premedication. All patients should be pretreated with corticosteroids, diphenhydramine, and H 2 antagonists. (see"
+  },
+  "PACLITAXEL POLIGLUMEX": {
+    "query": "PACLITAXEL POLIGLUMEX",
+    "found": false
+  },
+  "PERHEXILINE": {
+    "query": "PERHEXILINE",
+    "found": false
+  },
+  "POLATUZUMAB VEDOTIN": {
+    "query": "POLATUZUMAB VEDOTIN",
+    "found": true,
+    "brand": "POLIVY",
+    "generic": "POLATUZUMAB VEDOTIN",
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "boxed_warning": false,
+    "pediatric_use": true,
+    "pediatric_snippet": "8.4 Pediatric Use Safety and effectiveness of POLIVY have not been established in pediatric patients.",
+    "warnings_snippet": "5 WARNINGS AND PRECAUTIONS Peripheral Neuropathy: Monitor patients for peripheral neuropathy and modify or discontinue dose accordingly. ( 5.1 ) Infusion-Related Reactions: Premedicate with an antihistamine and antipyretic. Monitor patients closely during infusions. Interrupt or discontinue infusion for reactions. ( 5.2 ) Myelosuppression: Monitor complete blood counts. Manage using dose delays or"
+  },
+  "RIDAFOROLIMUS": {
+    "query": "RIDAFOROLIMUS",
+    "found": false
+  },
+  "TISOTUMAB VEDOTIN": {
+    "query": "TISOTUMAB VEDOTIN",
+    "found": true,
+    "brand": "TIVDAK",
+    "generic": "TISOTUMAB VEDOTIN",
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "boxed_warning": true,
+    "pediatric_use": true,
+    "pediatric_snippet": "8.4 Pediatric Use Safety and effectiveness of TIVDAK in pediatric patients have not been established. Nonclinical studies of tisotumab vedotin-tftv suggest a lack of anti-tumor activity and penetrance to brain based on limited in vivo data from tissue factor (TF)-expressing subcutaneous or orthotopic pediatric models of high\u2011grade gliomas/glioblastomas (HGG/GBM) and diffuse intrinsic pontine gliom",
+    "warnings_snippet": "5 WARNINGS AND PRECAUTIONS \u2022 Peripheral neuropathy: Monitor patients for new or worsening peripheral neuropathy. Withhold, reduce the dose, or permanently discontinue TIVDAK based on severity. ( 2.3 , 5.2 ) \u2022 Hemorrhage: Monitor patients for signs and symptoms of hemorrhage. Withhold, reduce the dose, or permanently discontinue TIVDAK based on severity. ( 2.3 , 5.3 ) \u2022 Pneumonitis: Severe, life-th"
+  },
+  "TRASTUZUMAB EMTANSINE": {
+    "query": "TRASTUZUMAB EMTANSINE",
+    "found": true,
+    "brand": "KADCYLA",
+    "generic": "ADO-TRASTUZUMAB EMTANSINE",
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "boxed_warning": true,
+    "pediatric_use": true,
+    "pediatric_snippet": "8.4 Pediatric Use Safety and effectiveness of KADCYLA have not been established in pediatric patients.",
+    "warnings_snippet": "5 WARNINGS AND PRECAUTIONS Pulmonary Toxicity: Permanently discontinue KADCYLA in patients diagnosed with interstitial lung disease or pneumonitis. For patients with radiation pneumonitis in the adjuvant setting, permanently discontinue KADCYLA for Grade \u2265 3 or for Grade 2 not responding to standard treatment. ( 2.2 , 5.4 ) Infusion-Related Reactions, Hypersensitivity Reactions: Monitor for signs "
+  },
+  "VINBLASTINE": {
+    "query": "VINBLASTINE",
+    "found": true,
+    "brand": "Vinblastine Sulfate",
+    "generic": "VINBLASTINE SULFATE",
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "boxed_warning": true,
+    "pediatric_use": true,
+    "pediatric_snippet": "Pediatric Use The dosage schedule for pediatric patients is indicated under DOSAGE AND ADMINISTRATION .",
+    "warnings_snippet": "WARNINGS: This preparation is for intravenous use only. It should be administered by individuals experienced in the administration of vinblastine sulfate. The intrathecal administration of vinblastine sulfate usually results in death. To reduce the potential for fatal medication errors due to incorrect route of administration, vinblastine sulfate injection should be diluted in a flexible plastic c"
+  },
+  "VINBLASTINE SULFATE": {
+    "query": "VINBLASTINE SULFATE",
+    "found": true,
+    "brand": "Vinblastine Sulfate",
+    "generic": "VINBLASTINE SULFATE",
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "boxed_warning": true,
+    "pediatric_use": true,
+    "pediatric_snippet": "Pediatric Use The dosage schedule for pediatric patients is indicated under DOSAGE AND ADMINISTRATION .",
+    "warnings_snippet": "WARNINGS: This preparation is for intravenous use only. It should be administered by individuals experienced in the administration of vinblastine sulfate. The intrathecal administration of vinblastine sulfate usually results in death. To reduce the potential for fatal medication errors due to incorrect route of administration, vinblastine sulfate injection should be diluted in a flexible plastic c"
+  },
+  "VINCRISTINE": {
+    "query": "VINCRISTINE",
+    "found": true,
+    "brand": "VinCRIStine Sulfate",
+    "generic": "VINCRISTINE SULFATE",
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "boxed_warning": true,
+    "pediatric_use": true,
+    "pediatric_snippet": "Pediatric Use See DOSAGE AND ADMINISTRATION section.",
+    "warnings_snippet": "WARNINGS This preparation is for intravenous use only. It should be administered by individuals experienced in the administration of Vincristine Sulfate Injection. The intrathecal administration of Vincristine Sulfate Injection usually results in death. To reduce the potential for fatal medication errors due to incorrect route of administration, Vincristine Sulfate Injection should be diluted in a"
+  },
+  "VINCRISTINE SULFATE": {
+    "query": "VINCRISTINE SULFATE",
+    "found": true,
+    "brand": "VinCRIStine Sulfate",
+    "generic": "VINCRISTINE SULFATE",
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "boxed_warning": true,
+    "pediatric_use": true,
+    "pediatric_snippet": "Pediatric Use See DOSAGE AND ADMINISTRATION section.",
+    "warnings_snippet": "WARNINGS This preparation is for intravenous use only. It should be administered by individuals experienced in the administration of Vincristine Sulfate Injection. The intrathecal administration of Vincristine Sulfate Injection usually results in death. To reduce the potential for fatal medication errors due to incorrect route of administration, Vincristine Sulfate Injection should be diluted in a"
+  },
+  "VINFLUNINE": {
+    "query": "VINFLUNINE",
+    "found": false
+  },
+  "VINFLUNINE DITARTRATE": {
+    "query": "VINFLUNINE DITARTRATE",
+    "found": false
+  },
+  "VINORELBINE": {
+    "query": "VINORELBINE",
+    "found": true,
+    "brand": "Vinorelbine",
+    "generic": "VINORELBINE",
+    "route": [
+      "INTRAVENOUS"
+    ],
+    "boxed_warning": true,
+    "pediatric_use": true,
+    "pediatric_snippet": "8.4 Pediatric Use The safety and effectiveness of vinorelbine in pediatric patients have not been established. Results from a single-arm study of vinorelbine administered at the dose of 33.75 mg/m 2 (for 35 patients) or at the dose of 30 mg/m 2 (for 11 patients) every week for 6 weeks followed by 2 weeks of rest were evaluated (courses of 8 weeks). Forty-six patients age 1 to 25 (median 11 years) ",
+    "warnings_snippet": "5 WARNINGS AND PRECAUTIONS Hepatic Toxicity: Monitor hepatic function prior to initiation and during treatment ( 5.2 ) Severe constipation and bowel obstruction, including necrosis and perforation, occur. Institute a prophylactic bowel regimen to mitigate potential constipation, bowel obstruction and/or paralytic ileus ( 5.3 ) Extravasation can result in severe tissue injury, local tissue necrosis"
+  },
+  "VINORELBINE TARTRATE": {
+    "query": "VINORELBINE TARTRATE",
+    "found": false
+  }
+}
